@@ -1,0 +1,9 @@
+#logo {
+    max-width:100%;
+    padding: 50px;
+}
+
+#sidebar {
+    background-image: url("../ressource/sidebarBack.jpg");
+    height: 150%
+}
