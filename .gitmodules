@@ -1,0 +1,6 @@
+[submodule ".\\TheCookBookBack\\"]
+	path = .\\TheCookBookBack\\
+	url = git@github.com:https://github.com/Ant-man74/TheCookBookBack.git
+[submodule ".\\TheCookBookFront\\"]
+	path = .\\TheCookBookFront\\
+	url = git@github.com:https://github.com/Ant-man74/TheCookBookFront.git
